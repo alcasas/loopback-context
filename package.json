@@ -1,10 +1,7 @@
 {
   "name": "loopback-context",
   "version": "3.5.2",
-  "description": "Current context for LoopBack applications, based on cls-hooked",
-  "engines": {
-    "node": "^8.2.1 || ^10.14 || ^12.15"
-  },
+  "description": "Current context for LoopBack applications, based on cls-hooked"
   "keywords": [
     "StrongLoop",
     "LoopBack",
